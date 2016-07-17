@@ -1,26 +1,17 @@
 Twiddler files
 ==============================
 
-This repo contains configuration files for the one handed chording keyboard Twiddler.
+This repo contains configuration files for the one handed chording keyboard Twiddler 3.
 
-As of 8/17/2015 I use only Twiddler 3. 
-I don’t use Twiddler 2.1 anymore so my fingers don't have to keep adjusting from Twiddler 2 to Twiddler 3 buttons.
+This was forked from a repository developed by <a href="http://google.com/+AlexBravo">Alex Bravo</a>. He developed the Backspice layout as an improvement of the already great TabSpace layout.
 
-More info about this project can be found at http://google.com/+AlexBravo
-
-I developed Backspice layout as an improvement of an already great TabSpace layout.
-
-I use this layout all day, every day, at least 8 hours per day. 
-Usually doing software development on a Mac.
-
-Right now I only maintain Backspice layout for the left hand here, as I use only the left hand with it. 
-You will definitely need to create a mirror layout if you want to use Twiddler with your right hand.
+This is maintained for left hand only, as that is what I use with it. You will definitely need to create a mirror layout if you want to use Twiddler with your right hand.
 Feel free to submit a pull request if you create such a layout.
 
-![Image of Backspice layout cheat sheet](https://github.com/AlexBravo/Twiddler/blob/master/Backspice/Cheat%20sheet%20explanation.png)
+![Image of Backspice layout cheat sheet](https://github.com/thombaynes/Twiddler/blob/master/Backspice/Cheat%20sheet%20explanation.png)
 -------------------
 
 
 The TabSpace layout description: http://rhodesmill.org/brandon/projects/tabspace-guide.pdf
 
-Some files came originally from: https://github.com/cswetenham/tabspace2.1
+Forked from Alex Bravo's Backspice: https://github.com/AlexBravo/Twiddler
